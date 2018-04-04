@@ -8,7 +8,7 @@ Translate KOR - “The Cathedral and the Bazaar”
 
 - 20124826 박상영
 
-- 2012 권우성
+- 20122132 권우성
 
 - 20132862 김현빈
 
