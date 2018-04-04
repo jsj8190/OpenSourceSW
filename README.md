@@ -12,7 +12,7 @@ Translate KOR - “The Cathedral and the Bazaar”
 
 - 20132862 김현빈
 
-- 2013 조성주
+- 20132569 조성주
 
 ## [역할]
 
